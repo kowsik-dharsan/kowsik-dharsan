@@ -6,4 +6,4 @@
 
 ## ☕️ Support:
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](buymeacoffee.com/Kowsikdharsan)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](buymeacoffee.com/Kowsik7dharsan)
