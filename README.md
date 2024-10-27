@@ -4,14 +4,14 @@
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-
-![](https://streak-stats.demolab.com/?userkowsik-dharsan&theme=radical)
+# 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=kowsik-dharsan&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api?username=kowsik-dharsan&show_icons=true&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kowsik-dharsan&layout=compact&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=isPique&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=kowsik-dharsan&style=for-the-badge)
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=kowsik-dharsan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
