@@ -4,4 +4,7 @@
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=kowsik-dharsan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ![Snake animation](https://raw.githubusercontent.com/isPique/isPique/output/github-contribution-grid-snake-dark.svg)
